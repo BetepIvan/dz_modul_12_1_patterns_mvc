@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Борщ украинский",
+    "author": "Баба Галя",
+    "recipe_type": "суп",
+    "description": "Классический украинский борщ с говядиной. Готовится на мясном бульоне с добавлением свеклы, капусты и овощей. Подается со сметаной и свежей зеленью.",
+    "ingredients": [
+      {
+        "name": "Свекла",
+        "quantity": "2 шт",
+        "optional": false
+      },
+      {
+        "name": "Картофель",
+        "quantity": "3 шт",
+        "optional": false
+      },
+      {
+        "name": "Капуста белокочанная",
+        "quantity": "200 г",
+        "optional": false
+      },
+      {
+        "name": "Морковь",
+        "quantity": "1 шт",
+        "optional": false
+      },
+      {
+        "name": "Лук репчатый",
+        "quantity": "1 шт",
+        "optional": false
+      },
+      {
+        "name": "Томатная паста",
+        "quantity": "2 ст. ложки",
+        "optional": false
+      },
+      {
+        "name": "Говядина",
+        "quantity": "400 г",
+        "optional": false
+      },
+      {
+        "name": "Сметана",
+        "quantity": "для подачи",
+        "optional": true
+      },
+      {
+        "name": "Укроп",
+        "quantity": "для подачи",
+        "optional": true
+      }
+    ],
+    "cuisine": "украинская",
+    "youtube_url": "",
+    "google_url": null,
+    "cooking_time": 120,
+    "difficulty": "Средний"
+  },
+  {
+    "name": "Паста Карбонара",
+    "author": "Шеф Марко",
+    "recipe_type": "основное блюдо",
+    "description": "Классическая итальянская паста с панчеттой, яйцами и пармезаном. Секрет в том, чтобы добавить яичную смесь в горячую пасту, не доводя до кипения.",
+    "ingredients": [
+      {
+        "name": "Спагетти",
+        "quantity": "400 г",
+        "optional": false
+      },
+      {
+        "name": "Панчетта или грудинка",
+        "quantity": "200 г",
+        "optional": false
+      },
+      {
+        "name": "Яйца",
+        "quantity": "4 шт",
+        "optional": false
+      },
+      {
+        "name": "Пармезан",
+        "quantity": "100 г",
+        "optional": false
+      },
+      {
+        "name": "Черный перец",
+        "quantity": "по вкусу",
+        "optional": false
+      },
+      {
+        "name": "Соль",
+        "quantity": "по вкусу",
+        "optional": false
+      }
+    ],
+    "cuisine": "итальянская",
+    "youtube_url": null,
+    "google_url": "",
+    "cooking_time": 30,
+    "difficulty": "Легкий"
+  }
+]
