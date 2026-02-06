@@ -59,7 +59,6 @@ def initialize_sample_data(model: ShoesModel):
     model.shoes = sample_shoes
     model.save_to_file()
 
-
 if __name__ == "__main__":
     # Инициализация компонентов MVC
     model = ShoesModel("shoes_data.json")
