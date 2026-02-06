@@ -105,7 +105,6 @@ class Recipe:
                 f"⏱️ Время готовки: {self.cooking_time or 'Не указано'} мин\n"
                 f"⚡ Сложность: {self.difficulty or 'Не указана'}")
 
-
 class RecipeModel:
     """Модель для работы с коллекцией рецептов"""
 
