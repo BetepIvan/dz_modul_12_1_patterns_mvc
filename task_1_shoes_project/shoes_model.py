@@ -2,7 +2,6 @@ import json
 from typing import List, Dict, Optional
 from enum import Enum
 
-
 class ShoeType(Enum):
     MEN = "мужская"
     WOMEN = "женская"
