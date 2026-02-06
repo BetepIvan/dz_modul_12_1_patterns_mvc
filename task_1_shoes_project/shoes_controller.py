@@ -1,7 +1,6 @@
 from typing import List, Optional, Tuple
 from shoes_model import ShoesModel, Shoe, ShoeType, ShoeCategory
 
-
 class ShoesController:
     USER_ROLES = {
         "admin": ["add", "remove", "view_all", "view_stats", "edit"],
