@@ -28,7 +28,7 @@ def initialize_sample_recipes(model: RecipeModel):
         cuisine=CuisineType.UKRAINIAN,
         cooking_time=120,
         difficulty="Средний",
-        youtube_url="https://youtube.com/watch?v=example_borscht"
+        youtube_url=""
     )
 
     # Рецепт 2: Паста Карбонара
@@ -50,7 +50,7 @@ def initialize_sample_recipes(model: RecipeModel):
         cuisine=CuisineType.ITALIAN,
         cooking_time=30,
         difficulty="Легкий",
-        google_url="https://www.giallozafferano.it/ricerca-ricette/carbonara/"
+        google_url=""
     )
 
     # Рецепт 3: Тирамису
@@ -73,7 +73,7 @@ def initialize_sample_recipes(model: RecipeModel):
         cuisine=CuisineType.ITALIAN,
         cooking_time=45,
         difficulty="Средний",
-        youtube_url="https://youtube.com/watch?v=example_tiramisu"
+        youtube_url=""
     )
 
     # Рецепт 4: Суши Филадельфия
@@ -122,7 +122,7 @@ def initialize_sample_recipes(model: RecipeModel):
         cuisine=CuisineType.MEXICAN,
         cooking_time=15,
         difficulty="Легкий",
-        google_url="https://www.mexicoinmykitchen.com/guacamole-recipe/"
+        google_url=""
     )
 
     # Добавляем рецепты в модель
