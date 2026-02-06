@@ -1,7 +1,5 @@
-from typing import List
 from shoes_controller import ShoesController
 from shoes_model import Shoe, ShoeType, ShoeCategory
-
 
 class ShoesView:
     def __init__(self, controller: ShoesController):
